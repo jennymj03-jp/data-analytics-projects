@@ -107,4 +107,4 @@ Tracks customer acquisition channels such as:
 
 Mary Jennifer A
 
-Data Visualisation & BI Reporting Analyst
+Data Analyst
