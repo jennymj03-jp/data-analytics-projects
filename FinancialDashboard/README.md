@@ -158,20 +158,6 @@ Analysis based on:
 * Customer segmentation analysis
 * Responsive data storytelling visuals
 
----
-
-## Dashboard Preview
-
-### Loan Summary Dashboard
-
-![Loan Summary Dashboard](bank_loan_summary_dashboard.png)
-
-### Loan Overview Dashboard
-
-![Loan Overview Dashboard](bank_loan_overview_dashboard.png)
-
----
-
 ## Author
 
 Mary Jennifer A
