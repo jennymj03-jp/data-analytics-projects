@@ -38,8 +38,6 @@ The dashboard provides insights into:
 * Tracked weekly sales fluctuations
 * Compared company-wise sales performance
 
-## Dashboard Preview
-
 ## Author
 
 Mary Jennifer A
